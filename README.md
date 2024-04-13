@@ -1,5 +1,3 @@
-اسکریپت فیلتری 
-print("")
+اسکریپت فیلتری روبیکا
 cd Sitringer
-print("")
 python Sitringer.py
